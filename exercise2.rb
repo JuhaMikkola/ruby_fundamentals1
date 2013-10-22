@@ -11,5 +11,7 @@ y = 7839
 z = x * y
 puts "The answer you are looking for is #{z}. Boom!"
 
-#The answer is True
-puts (true && false) || (false && true) || !(false && false)
+#The answer is True. Called that
+puts (true && false) || (false && true) || !(false && false
+
+	
