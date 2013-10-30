@@ -1,5 +1,3 @@
-101.times #Set up the loop
-
 for i in 1..100 do 
   if ((i % 3 == 0) && (i % 5 == 0)) #Multiples of 3 and 5
     puts "BitMaker"
